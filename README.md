@@ -9,3 +9,10 @@ Learning Vanilla-Redux and React-Redux
  - Deal with configureStore (req : redux toolkit)
 
 * Deal with createSlice
+
+
+# How to install
+```
+npm install or yarn install
+```
+
