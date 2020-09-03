@@ -6,3 +6,4 @@ Learning Vanilla-Redux and React-Redux
  - Detail Screen
  - Deal with Creact Action
  - Deal with CreateReducer
+ - Deal with configureStore (req : redux toolkit)
